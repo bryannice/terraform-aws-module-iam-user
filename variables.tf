@@ -17,7 +17,9 @@ variable "path" {
 }
 
 variable "permissions_boundary" {
-
+  default = ""
+  description = "The ARN of the policy that is used to set the permissions boundary for the user."
+  type = string
 }
 
 variable "tags" {
