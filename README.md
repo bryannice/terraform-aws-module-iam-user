@@ -11,4 +11,4 @@ Reuse pattern for creating a IAM User.
 
 ## License
 
-[Apache 2](LICENSE)
+[GPLv3](LICENSE)
